@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514971350622",
+    "project_id": "dump2-e7a8d",
+    "storage_bucket": "dump2-e7a8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514971350622:android:02c76ae1daa7d14edd66cf",
+        "android_client_info": {
+          "package_name": "com.bible.samplewidget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeszRR0CyvzNLHfPJOHCuGotbN0JdUmTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
